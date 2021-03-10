@@ -1,0 +1,974 @@
+{
+  "QmQSrLhjC7mdVpAJP7arVTKxjGFyrWFUvqQLhW2xzYkc8E": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmR2qDDKH28KRA7AmDhvaTTpKw9fbTR23Nb1okxK2Lao7F": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmS9hfYWzhWmJnVc2dvQEFEm75q9SDykUwsciFeY6VYPh8": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmSJa3Sb9asQdgjFeMZygYcrXZbRX6BPFPpxc9ra9ukCWK": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmSQqxzChmTf25fGtMtXDpzfzC6DPPbEF7bq3jCL3R1KtS": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmSdnGLtPuMvs79pP83WUfcjB2hGs18Uc4E2jeepGDcpQy": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmSe1czVctgEvoDJq1YavnQgVuehPfFSPxJ5sZExZwfRMB": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmT4QHv9u93HgrcdNPAw8ua2Waj3JHcSuWe8r4VEAopmzr": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmT6aPSeSF6CKzoWKY8DKCST3tMdbuRMLzpzz7QAutdufX": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmU2pCVLYEwJwaeC7Lrt9eskZFS4ZtzWwYT7nPYa78nrqG": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmV2avsHesuJMkgFSFhbKkwFMTh3ECmjvotdbqSmUNYUo7": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmV4MzHfftkeGARK4FjdJHp1412QcoTeuwLkE351xEsR5M": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmXuVkq2R2YaubpNmopKRciCw3uU7RiXNx5wT8K6WX6HVw": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmYJmFfdjfLUTEASGSfequZ7mMVHrY9yoESa4ZY6qWZ3gN": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Qmbbnuc6gRW4kKpMnSHNq7V3fWCwHQpMzuvQW2ioXZ28Ud": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmbhnqNe1T5bUk1Tmmash91egHPhX4zHsp87iRkY5uccsw": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmcxPVm2SyTzDqcdXZyMW1wHL6Sp1Lv15HVbtKhY42ncYQ": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Qmd8k8SAKP75UsaL5WFqVbJkK8o2TbrkURXv9VxZKxe7UX": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmdRCXH6BQpNcucoZqAtS5hQKjckE2428qiZoWjxmJXbs3": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmeVAdDutx4H4Gf9QS1Ri1zUCCc2GjGpUUrqdzBREw55xn": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            },
+            {
+              "name": "delegation",
+              "params": {
+                "strategies": [
+                  {
+                    "name": "erc20-balance-of",
+                    "params": {
+                      "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                      "decimals": 18
+                    }
+                  },
+                  {
+                    "name": "yearn-vault",
+                    "params": {
+                      "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                      "decimals": 18
+                    }
+                  }
+                ],
+                "symbol": "YFI (delegated)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "QmeVTt9V5N85wzjiHFhxYUSY8Jz7e65GKqrMzsawqN3aJm": {
+    "msg": {
+      "payload": {
+        "metadata": {
+          "strategies": [
+            {
+              "name": "erc20-balance-of",
+              "params": {
+                "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+                "decimals": 18,
+                "symbol": "YFI"
+              }
+            },
+            {
+              "name": "yearn-vault",
+              "params": {
+                "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+                "decimals": 18,
+                "symbol": "YFI (yYFI)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
