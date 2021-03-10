@@ -104,6 +104,15 @@ anything posted throughout the entire snapshot history.
 
 > using ripgrep
 
+We can save the output into a tmp file, e.g:
+
+```bash
+rg msg.payload.name > BULK.txt
+wc -l BULK.txt
+      79 BULK.txt
+```
+That gives us 79 proposals (at maximum), by counting how many lines are in the file `BULK.txt`
+
 ```bash
 $ rg msg.payload.name
 gronkd
