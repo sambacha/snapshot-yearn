@@ -93,6 +93,13 @@ msg.payload.body
 payload.metadata.strategies
 </pre> 
 
+## Bulk Search
+
+the file named `gronkd` contains the raw saved output from the snapshot api endpoint. 
+
+Using something like [`rg`](https://github.com/BurntSushi/ripgrep) will let you search for any word within the context of 
+anything posted throughout the entire snapshot history.
+
 
 ## License 
 
